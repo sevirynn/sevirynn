@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Sevi Rynn (She/They) and I'm making the switch to Software Engineering after a decade in IT! The 2023-2024 job market is really tough, so much so that even specilizations in asset management and linux platform engineering wasn't enough. 
+
+I'm currently a student of Tech Elevator in their Java full stack code camp.
+
 <!--
 **sevirynn/sevirynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
